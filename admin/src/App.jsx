@@ -11,7 +11,8 @@ import Main from './components/Main/Main'
 
 const App = () => {
 
-  const url = "http://localhost:4000"
+  // const url = "http://localhost:4000"
+  const url = "https://foodflyersproject.onrender.com"
 
   return (
     <div>
